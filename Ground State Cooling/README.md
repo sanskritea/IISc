@@ -1,1 +1,3 @@
-Aim: to cool electromechanical oscillator to thermal ground state using a transmon qubit coupled to an electromagnetic resonator
+Aim: to cool electromechanical oscillator to thermal ground state using a transmon qubit coupled to an electromagnetic resonator<br>
+<br>
+We tested tha cooling scheme with differetn combinations of qubit-oscillator states to optimise anharmonicity and coupling with respect to computation time. The Hilbert space required for meaningful computations was extremely large and almost prohibitive. Nonentheless, we werer able to verify that we wereronly limited by the parameter space and computational constraints; our code and idea were scientifically sound. With better cimputing power, we will be able to explore the parameter space more efficiently and find an optimized set of anharminicity and coupling to carry out effective ground state cooling.
